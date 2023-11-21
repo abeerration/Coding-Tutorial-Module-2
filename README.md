@@ -15,7 +15,7 @@
 
 None
 
-## Course Description & Goals
+## Description & Goals
 
 This introductory course offers a quick first dive into coding using HTML/CSS/JavaScript web development and Python.
 
@@ -26,14 +26,14 @@ The course comprises of two modules.
 
 ---
 
-## Course Materials
+## Materials
 
 | # | Cover | Title |
 | ----------- | ----------- | ----------- |
 | **1.** | ![](dkbeginnerscoding.jpg) | <h4><i>DK</i></h4><h2>Beginner's Step-By-Step Coding Course</h2><h4>Dorling Kindersley Limited</h4><p>2020</p><p align="center"><i>Book</i></p> |
 ---
 
-## Chronological Course Work
+## Course Work
 
 | # | Activity | Type | Date / Duration | Description / Notes | Links |
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
