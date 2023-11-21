@@ -1,7 +1,7 @@
 <div align="center">
   <b>A course in my <a href="https://github.com/abeerration/CS-Self-Education">CS Self Education</a> series</b>
   <h1>Coding Tutorial – Module 2</h1>
-  <img src="banner.jpg" align="center"/>
+  <img src="banner-module-2.jpg" align="center"/>
 </div>
 <div align="right">
   <sub>
