@@ -26,7 +26,7 @@ The course comprises of two modules.
 
 ---
 
-## Materials
+## Materials for Module 2
 
 | # | Cover | Title |
 | ----------- | ----------- | ----------- |
@@ -34,7 +34,7 @@ The course comprises of two modules.
 | **1.** | ![](pythoneasysteps.jpg) | <h4><i>Mike McGrath</i></h4><h2>Python in Easy Steps, 2nd Edition</h2><h4>In Easy Steps Limited</h4><p>2018</p><p align="center"><i>Book</i></p> |
 ---
 
-## Course Work
+## Course Work for Module 2
 
 | # | Activity | Type | Date / Duration | Description / Notes | Links |
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
