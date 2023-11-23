@@ -31,6 +31,7 @@ The course comprises of two modules.
 | # | Cover | Title |
 | ----------- | ----------- | ----------- |
 | **1.** | ![](dkbeginnerscoding.jpg) | <h4><i>DK</i></h4><h2>Beginner's Step-By-Step Coding Course</h2><h4>Dorling Kindersley Limited</h4><p>2020</p><p align="center"><i>Book</i></p> |
+| **1.** | ![](pythoneasysteps.jpg) | <h4><i>Mike McGrath</i></h4><h2>Python in Easy Steps, 2nd Edition</h2><h4>In Easy Steps Limited</h4><p>2018</p><p align="center"><i>Book</i></p> |
 ---
 
 ## Course Work
